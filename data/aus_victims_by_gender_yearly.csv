@@ -1,0 +1,161 @@
+,year,sex,offence_division,offence_subdivision,victims,total_victims
+0,2024,Females,A Crimes against the person,A10 Homicide and related offences,76,226
+1,2024,Females,A Crimes against the person,A20 Assault and related offences,24744,49162
+2,2024,Females,A Crimes against the person,A30 Sexual offences,9483,11220
+3,2024,Females,A Crimes against the person,A40 Abduction and related offences,328,563
+4,2024,Females,A Crimes against the person,A50 Robbery,579,3213
+5,2024,Females,A Crimes against the person,A60 Blackmail and extortion,70,341
+6,2024,Females,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",5362,8183
+7,2024,Females,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1060,2529
+8,2024,Males,A Crimes against the person,A10 Homicide and related offences,150,226
+9,2024,Males,A Crimes against the person,A20 Assault and related offences,24418,49162
+10,2024,Males,A Crimes against the person,A30 Sexual offences,1737,11220
+11,2024,Males,A Crimes against the person,A40 Abduction and related offences,235,563
+12,2024,Males,A Crimes against the person,A50 Robbery,2634,3213
+13,2024,Males,A Crimes against the person,A60 Blackmail and extortion,271,341
+14,2024,Males,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2821,8183
+15,2024,Males,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1469,2529
+16,2023,Females,A Crimes against the person,A10 Homicide and related offences,80,211
+17,2023,Females,A Crimes against the person,A20 Assault and related offences,22384,44545
+18,2023,Females,A Crimes against the person,A30 Sexual offences,7913,9453
+19,2023,Females,A Crimes against the person,A40 Abduction and related offences,289,429
+20,2023,Females,A Crimes against the person,A50 Robbery,563,2898
+21,2023,Females,A Crimes against the person,A60 Blackmail and extortion,64,515
+22,2023,Females,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4835,7349
+23,2023,Females,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1072,2398
+24,2023,Males,A Crimes against the person,A10 Homicide and related offences,131,211
+25,2023,Males,A Crimes against the person,A20 Assault and related offences,22161,44545
+26,2023,Males,A Crimes against the person,A30 Sexual offences,1540,9453
+27,2023,Males,A Crimes against the person,A40 Abduction and related offences,140,429
+28,2023,Males,A Crimes against the person,A50 Robbery,2335,2898
+29,2023,Males,A Crimes against the person,A60 Blackmail and extortion,451,515
+30,2023,Males,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2514,7349
+31,2023,Males,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1326,2398
+32,2022,Females,A Crimes against the person,A10 Homicide and related offences,59,180
+33,2022,Females,A Crimes against the person,A20 Assault and related offences,22545,44741
+34,2022,Females,A Crimes against the person,A30 Sexual offences,7942,9311
+35,2022,Females,A Crimes against the person,A40 Abduction and related offences,311,494
+36,2022,Females,A Crimes against the person,A50 Robbery,408,2250
+37,2022,Females,A Crimes against the person,A60 Blackmail and extortion,56,440
+38,2022,Females,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4947,7448
+39,2022,Females,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1096,2230
+40,2022,Males,A Crimes against the person,A10 Homicide and related offences,121,180
+41,2022,Males,A Crimes against the person,A20 Assault and related offences,22196,44741
+42,2022,Males,A Crimes against the person,A30 Sexual offences,1369,9311
+43,2022,Males,A Crimes against the person,A40 Abduction and related offences,183,494
+44,2022,Males,A Crimes against the person,A50 Robbery,1842,2250
+45,2022,Males,A Crimes against the person,A60 Blackmail and extortion,384,440
+46,2022,Males,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2501,7448
+47,2022,Males,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1134,2230
+48,2021,Females,A Crimes against the person,A10 Homicide and related offences,63,172
+49,2021,Females,A Crimes against the person,A20 Assault and related offences,21954,43226
+50,2021,Females,A Crimes against the person,A30 Sexual offences,7989,9201
+51,2021,Females,A Crimes against the person,A40 Abduction and related offences,338,492
+52,2021,Females,A Crimes against the person,A50 Robbery,469,2357
+53,2021,Females,A Crimes against the person,A60 Blackmail and extortion,40,183
+54,2021,Females,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4955,7547
+55,2021,Females,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1020,2139
+56,2021,Males,A Crimes against the person,A10 Homicide and related offences,109,172
+57,2021,Males,A Crimes against the person,A20 Assault and related offences,21272,43226
+58,2021,Males,A Crimes against the person,A30 Sexual offences,1212,9201
+59,2021,Males,A Crimes against the person,A40 Abduction and related offences,154,492
+60,2021,Males,A Crimes against the person,A50 Robbery,1888,2357
+61,2021,Males,A Crimes against the person,A60 Blackmail and extortion,143,183
+62,2021,Males,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2592,7547
+63,2021,Males,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1119,2139
+64,2020,Females,A Crimes against the person,A10 Homicide and related offences,69,197
+65,2020,Females,A Crimes against the person,A20 Assault and related offences,22108,43109
+66,2020,Females,A Crimes against the person,A30 Sexual offences,7339,8642
+67,2020,Females,A Crimes against the person,A40 Abduction and related offences,348,514
+68,2020,Females,A Crimes against the person,A50 Robbery,500,2721
+69,2020,Females,A Crimes against the person,A60 Blackmail and extortion,44,158
+70,2020,Females,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",5183,7905
+71,2020,Females,A Crimes against the person,A80 Dangerous and negligent acts endangering people,998,2151
+72,2020,Males,A Crimes against the person,A10 Homicide and related offences,128,197
+73,2020,Males,A Crimes against the person,A20 Assault and related offences,21001,43109
+74,2020,Males,A Crimes against the person,A30 Sexual offences,1303,8642
+75,2020,Males,A Crimes against the person,A40 Abduction and related offences,166,514
+76,2020,Males,A Crimes against the person,A50 Robbery,2221,2721
+77,2020,Males,A Crimes against the person,A60 Blackmail and extortion,114,158
+78,2020,Males,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2722,7905
+79,2020,Males,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1153,2151
+80,2019,Females,A Crimes against the person,A10 Homicide and related offences,78,215
+81,2019,Females,A Crimes against the person,A20 Assault and related offences,22206,43354
+82,2019,Females,A Crimes against the person,A30 Sexual offences,7442,8810
+83,2019,Females,A Crimes against the person,A40 Abduction and related offences,335,481
+84,2019,Females,A Crimes against the person,A50 Robbery,751,3803
+85,2019,Females,A Crimes against the person,A60 Blackmail and extortion,51,159
+86,2019,Females,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4906,7370
+87,2019,Females,A Crimes against the person,A80 Dangerous and negligent acts endangering people,947,2103
+88,2019,Males,A Crimes against the person,A10 Homicide and related offences,137,215
+89,2019,Males,A Crimes against the person,A20 Assault and related offences,21148,43354
+90,2019,Males,A Crimes against the person,A30 Sexual offences,1368,8810
+91,2019,Males,A Crimes against the person,A40 Abduction and related offences,146,481
+92,2019,Males,A Crimes against the person,A50 Robbery,3052,3803
+93,2019,Males,A Crimes against the person,A60 Blackmail and extortion,108,159
+94,2019,Males,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2464,7370
+95,2019,Males,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1156,2103
+96,2018,Females,A Crimes against the person,A10 Homicide and related offences,74,198
+97,2018,Females,A Crimes against the person,A20 Assault and related offences,21366,42088
+98,2018,Females,A Crimes against the person,A30 Sexual offences,7352,8746
+99,2018,Females,A Crimes against the person,A40 Abduction and related offences,341,495
+100,2018,Females,A Crimes against the person,A50 Robbery,592,2908
+101,2018,Females,A Crimes against the person,A60 Blackmail and extortion,55,173
+102,2018,Females,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4674,7027
+103,2018,Females,A Crimes against the person,A80 Dangerous and negligent acts endangering people,884,2167
+104,2018,Males,A Crimes against the person,A10 Homicide and related offences,124,198
+105,2018,Males,A Crimes against the person,A20 Assault and related offences,20722,42088
+106,2018,Males,A Crimes against the person,A30 Sexual offences,1394,8746
+107,2018,Males,A Crimes against the person,A40 Abduction and related offences,154,495
+108,2018,Males,A Crimes against the person,A50 Robbery,2316,2908
+109,2018,Males,A Crimes against the person,A60 Blackmail and extortion,118,173
+110,2018,Males,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2353,7027
+111,2018,Males,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1283,2167
+112,2017,Females,A Crimes against the person,A10 Homicide and related offences,86,243
+113,2017,Females,A Crimes against the person,A20 Assault and related offences,20503,41498
+114,2017,Females,A Crimes against the person,A30 Sexual offences,7010,8610
+115,2017,Females,A Crimes against the person,A40 Abduction and related offences,318,453
+116,2017,Females,A Crimes against the person,A50 Robbery,590,2853
+117,2017,Females,A Crimes against the person,A60 Blackmail and extortion,36,128
+118,2017,Females,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4517,6770
+119,2017,Females,A Crimes against the person,A80 Dangerous and negligent acts endangering people,870,2122
+120,2017,Males,A Crimes against the person,A10 Homicide and related offences,157,243
+121,2017,Males,A Crimes against the person,A20 Assault and related offences,20995,41498
+122,2017,Males,A Crimes against the person,A30 Sexual offences,1600,8610
+123,2017,Males,A Crimes against the person,A40 Abduction and related offences,135,453
+124,2017,Males,A Crimes against the person,A50 Robbery,2263,2853
+125,2017,Males,A Crimes against the person,A60 Blackmail and extortion,92,128
+126,2017,Males,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2253,6770
+127,2017,Males,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1252,2122
+128,2016,Females,A Crimes against the person,A10 Homicide and related offences,65,187
+129,2016,Females,A Crimes against the person,A20 Assault and related offences,20958,41169
+130,2016,Females,A Crimes against the person,A30 Sexual offences,6210,7684
+131,2016,Females,A Crimes against the person,A40 Abduction and related offences,367,527
+132,2016,Females,A Crimes against the person,A50 Robbery,586,2755
+133,2016,Females,A Crimes against the person,A60 Blackmail and extortion,47,139
+134,2016,Females,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4816,7123
+135,2016,Females,A Crimes against the person,A80 Dangerous and negligent acts endangering people,850,2127
+136,2016,Males,A Crimes against the person,A10 Homicide and related offences,122,187
+137,2016,Males,A Crimes against the person,A20 Assault and related offences,20211,41169
+138,2016,Males,A Crimes against the person,A30 Sexual offences,1474,7684
+139,2016,Males,A Crimes against the person,A40 Abduction and related offences,160,527
+140,2016,Males,A Crimes against the person,A50 Robbery,2169,2755
+141,2016,Males,A Crimes against the person,A60 Blackmail and extortion,92,139
+142,2016,Males,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2307,7123
+143,2016,Males,A Crimes against the person,A80 Dangerous and negligent acts endangering people,1277,2127
+144,2015,Females,A Crimes against the person,A10 Homicide and related offences,62,177
+145,2015,Females,A Crimes against the person,A20 Assault and related offences,18381,36469
+146,2015,Females,A Crimes against the person,A30 Sexual offences,5230,6486
+147,2015,Females,A Crimes against the person,A40 Abduction and related offences,298,468
+148,2015,Females,A Crimes against the person,A50 Robbery,468,2119
+149,2015,Females,A Crimes against the person,A60 Blackmail and extortion,45,139
+150,2015,Females,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",4278,6488
+151,2015,Females,A Crimes against the person,A80 Dangerous and negligent acts endangering people,610,1580
+152,2015,Males,A Crimes against the person,A10 Homicide and related offences,115,177
+153,2015,Males,A Crimes against the person,A20 Assault and related offences,18088,36469
+154,2015,Males,A Crimes against the person,A30 Sexual offences,1256,6486
+155,2015,Males,A Crimes against the person,A40 Abduction and related offences,170,468
+156,2015,Males,A Crimes against the person,A50 Robbery,1651,2119
+157,2015,Males,A Crimes against the person,A60 Blackmail and extortion,94,139
+158,2015,Males,A Crimes against the person,"A70 Stalking, harassment and threatening behaviour",2210,6488
+159,2015,Males,A Crimes against the person,A80 Dangerous and negligent acts endangering people,970,1580
